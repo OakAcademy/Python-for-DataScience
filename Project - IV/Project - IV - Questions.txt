@@ -1,0 +1,17 @@
+1.	importing our library.
+2.	reading our dataset
+3.	find the rows count
+4.	find the most successful season of Manchester United and keep it
+5.	find the most successful season of Manchester City and keep it
+6.	find the most successful season of Liverpool and keep it
+7.	find the most successful season of Chelsea and keep it
+8.	find the most successful season of Arsenal and keep it
+9.	find the most successful season of Tottenham and keep it
+10.	create a new dataframe and add these teams
+11.	find the most successful team in the new dataframe
+12.	find the team that lost the most in the new dataframe
+13.	find the team with the most accurate shots on target in 2016.
+14.	At new dataframe: Add a new column named “Penalty success rate”, and this column calculates and shows us the team’s penalty success rate.
+15.	Find the most successful team on penalty saving at new data frame.
+16.	At new dataframe: Create a bar chart that showed the distribution of teams by points.
+17.	At new dataframe: Create a pie chart that showed the distribution of teams by goal attempts.

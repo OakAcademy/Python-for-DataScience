@@ -1,0 +1,17 @@
+1.	importing our library.
+2.	reading our dataset
+3.	change the columns’ names as Name, Survived, Gender, Age and Class
+4.	find the rows count
+5.	find the first 15 rows in our dataset
+6.	find the last 20 rows in our dataset 
+7.	calculate the average age of passengers
+8.	find the oldest passenger’s age and name
+9.	Group the dataset by passenger’s Class
+10.	Group the dataset by passenger’s Survived Situation
+11.	find the total survivors’ count
+12.	find the youngest survivor age and name
+13.	Find the 2nd Class passenger’s average age
+14.	Find the number of survivors of 3rd class passengers
+15.	Find the average age of those who died from 1st class passengers
+16.	Create a pie chart that showed the distribution of passengers by class.
+17.	Create a histogram that showed the distribution of passengers by age

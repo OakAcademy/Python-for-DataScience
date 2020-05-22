@@ -1,0 +1,17 @@
+1.	importing our library.
+2.	reading our dataset
+3.	change the columns’ names as Time Stamp, Count, Temperature, F_Temp, Humidity, Wind Speed, Weather Code, is Holiday, is Weekend, Season
+4.	find the rows count
+5.	find the first 24 rows in our dataset
+6.	find the last 24 rows in our dataset 
+7.	find the highest count
+8.	Group the dataset by Season
+9.	Calculate the average bike shares count of all seasons
+10.	Find the number of bike shares when the weather is hottest
+11.	Find the number of bike shares when the weather is coldest
+12.	Find the number of bike shares when the wind speed is highest
+13.	Find the lowest number of bike shares in winter
+14.	Find the highest number of bike shares in autumn
+15.	Find the average humidity in spring
+16.	Create a scatter chart that showed the number of bike shares by temperature.
+17.	Create a pie chart that showed the distribution of bike shares by season.
